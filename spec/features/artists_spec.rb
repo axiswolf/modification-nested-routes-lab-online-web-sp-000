@@ -1,4 +1,4 @@
-require 'spec/helper'
+require './spec/helper'
 describe "artists", type: :feature do
 
   before do
